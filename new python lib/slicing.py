@@ -47,3 +47,5 @@ print(text[3:0])
 print(text[::2])
 print(text[::-1])
 print(text[-2:-4])
+
+
