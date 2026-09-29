@@ -49,3 +49,5 @@ print(text[::-1])
 print(text[-2:-4])
 
 
+a = "muskan"
+print(a)
